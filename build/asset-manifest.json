@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.65eb5ebe.css",
+    "main.js": "/static/js/main.3dfc39b6.js",
+    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
+    "static/media/Speakers.jpg": "/static/media/Speakers.36297670a58dbeaafe55.jpg",
+    "static/media/business-05.jpg": "/static/media/business-05.446893f258e45c718197.jpg",
+    "static/media/freedom-room.jpg": "/static/media/freedom-room.f95a2d200c2860763c8b.jpg",
+    "static/media/gratitude-room.jpg": "/static/media/gratitude-room.fb4a0e0169733d595c3d.jpg",
+    "static/media/SL.jpg": "/static/media/SL.dc30949b9e0de5c19f05.jpg",
+    "static/media/TheHub.jpeg": "/static/media/TheHub.dc9c6a85adea661e8747.jpeg",
+    "index.html": "/index.html",
+    "main.65eb5ebe.css.map": "/static/css/main.65eb5ebe.css.map",
+    "main.3dfc39b6.js.map": "/static/js/main.3dfc39b6.js.map",
+    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65eb5ebe.css",
+    "static/js/main.3dfc39b6.js"
+  ]
+}

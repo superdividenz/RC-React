@@ -72,14 +72,14 @@ const Home = () => {
                 data-aos="fade-up"
                 data-aos-delay="800"
               >
-                <a
+                {/* <a
                   href="https://www.signupgenius.com/go/10C0F4CAEAA23A2F9C16-11th"
                   className="inline-block bg-blue-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-blue-700 transition duration-300"
                   data-aos="zoom-in"
                   data-aos-delay="1000"
                 >
                   11th Step centering Prayer Workshop
-                </a>
+                </a> */}
                 <button
                   onClick={() => setIsModalOpen(true)}
                   className="inline-block bg-gray-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-gray-700 transition duration-300"
@@ -136,7 +136,7 @@ const Home = () => {
       <Modal isOpen={isModalOpen} onClose={() => setIsModalOpen(false)}>
         <h2 className="text-2xl font-bold mb-4">ACA/FA Flyer</h2>
         <iframe
-          src={`${process.env.PUBLIC_URL}/Flyers/RC_Workshop.pdf`}
+          src={`${process.env.PUBLIC_URL}/Flyers/11th_Step.pdf`}
           width="100%"
           height="500px"
           title="ACA/FA Flyer"
