@@ -47,14 +47,6 @@ const Board = () => {
             <li data-aos="fade-up" data-aos-delay="800">
               Fran Caradonna
             </li>
-            <li data-aos="fade-up" data-aos-delay="900">
-              Donors / Sponsorship: Steve Bagwell <br />
-              <strong>PH:314-795-9686</strong>
-            </li>
-            <li data-aos="fade-up" data-aos-delay="1000">
-              Admin: Doug Hilbert <br />
-              <strong>PH:314-610-4146</strong>
-            </li>
           </ul>
           <hr className="my-8" data-aos="fade-in" data-aos-delay="1100" />
           <h3

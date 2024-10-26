@@ -27,3 +27,11 @@
     background-size: cover;
     min-height: 100vh;
   }
+
+  .transparent-box {
+    background-color: transparent;
+    border: 2px solid rgba(255, 255, 255, 0.5); /* Semi-transparent white border */
+    padding: 20px;
+    border-radius: 5px;
+    color: white; /* White text color */
+  }
