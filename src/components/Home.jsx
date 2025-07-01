@@ -55,7 +55,7 @@ const Home = () => {
           <div className="container mx-auto px-4 grid md:grid-cols-2 gap-8">
             {/* Left Column */}
             <div
-              className="p-8 bg-gray-800 bg-opacity-70 rounded-lg shadow-lg"
+              className="p-8 bg-gray-600 bg-opacity-50 rounded-lg shadow-lg mb-20"
               data-aos="fade-right"
               data-aos-duration="1200"
             >
@@ -76,16 +76,6 @@ const Home = () => {
                 community in St. Louis to explore the spiritual foundations of
                 healing and support. Engage in heartfelt discussions, share your
                 journey, and connect with others on the path to recovery.
-              </p>
-
-              <p
-                className="text-gray-300 leading-relaxed mb-8"
-                data-aos="fade-up"
-                data-aos-delay="900"
-              >
-                Whether you’re new to recovery or looking to deepen your
-                understanding, this panel offers valuable insights and
-                encouragement in a welcoming space.
               </p>
 
               <div
@@ -143,21 +133,10 @@ const Home = () => {
                 data-aos="fade-up"
                 data-aos-delay="700"
               >
-                Through individual and group fundraising, we improve the lives of
-                individuals and families affected by addiction and mental health
-                disorders, and the greater community.
+                Through individual and group fundraising, we improve the lives
+                of individuals and families affected by addiction and mental
+                health disorders, and the greater community.
               </p>
-
-              <a
-                href="https://www.paypal.com/donate/?hosted_button_id=TGRZESH5PQKVQ"
-                className="bg-blue-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-blue-700 transition duration-300 inline-block"
-                data-aos="zoom-in"
-                data-aos-delay="900"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Donate via PayPal
-              </a>
             </div>
           </div>
         </div>
