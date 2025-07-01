@@ -22,7 +22,7 @@ const SignUpForm = () => {
         className="text-xl font-semibold text-center mb-4 text-gray-800"
         data-aos="fade-down"
       >
-        Sign Up for the 11th Step / Spirituality Panel
+        Emotional Sobriety Workshop 2025
       </h3>
 
       <input

@@ -3,7 +3,7 @@ import React from "react";
 const FlyerModalContent = () => {
   return (
     <div className="mb-6 space-y-4">
-      <h2 className="text-2xl font-bold text-center">Emotional Sobriety Workshop</h2>
+      <h2 className="text-2xl font-bold text-center">Emotional Sobriety Workshop 2025</h2>
 
       <div className="w-full h-64 md:h-80 overflow-hidden rounded border">
         <iframe

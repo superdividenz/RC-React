@@ -64,7 +64,7 @@ const Home = () => {
                 data-aos="fade-up"
                 data-aos-delay="600"
               >
-                Join Us at the 11th Step & Spirituality Panel
+                Join Us at the Emotional Sobriety Workshop 2025
               </h3>
 
               <p
